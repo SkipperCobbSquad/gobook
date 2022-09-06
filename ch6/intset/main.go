@@ -68,4 +68,7 @@ func main() {
 	fmt.Println("")
 
 	fmt.Println(x.String())
+	fmt.Println(&x)
+	fmt.Println(x)
+
 }
